@@ -1,0 +1,4 @@
+1- Fabriquer le slider
+2- Mettre moteur
+3- Brancher Arduino
+4- Connection Bluethoot
