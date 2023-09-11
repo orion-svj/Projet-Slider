@@ -2,3 +2,4 @@
 2- Mettre moteur
 3- Brancher Arduino
 4- Connection Bluethoot
+5- map les buttons
